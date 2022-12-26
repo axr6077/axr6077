@@ -1,3 +1,5 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=axr6077&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m Ayush
 - 👀 I’m a Computer Engineer/Applied Machine Intelligence Engineer interested in hardware/software optimization, embedded systems and automation-based astrophysics. 
 - I like working on cars/motorcycles, run marathons and racket sports. 
